@@ -22,3 +22,7 @@ There is an executable file in the release folder, so please download and use it
   * HTML
 * Code
   * Use CData
+
+## License
+MIT<br>
+https://ja.wikipedia.org/wiki/MIT_License
